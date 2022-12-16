@@ -1,8 +1,9 @@
 publc class Example {
 	public static void main (String [] args) {
 		System.out.println ("Hello World") ;
+		myMethod();
 	}
-	public void myMethod (){
-		System.out printLn ("Nanthawat Phoosaengsan")
+	public static void myMethod (){
+		System.out printLn ("Nanthawat Phoosaengsan");
 	}
 }
